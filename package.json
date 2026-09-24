@@ -22,5 +22,8 @@
   "devDependencies": {
     "eslint": "^10.0.3",
     "prettier": "^3.8.1"
+  },
+  "allowScripts": {
+    "bufferutil@4.1.0": true
   }
 }
